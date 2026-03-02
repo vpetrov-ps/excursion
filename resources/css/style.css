@@ -1,0 +1,36 @@
+/* General styles */
+body {
+  background-color: #000000;
+  text-align: center;
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+/* Header styles */
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: #ffffff;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: #ffffff;
+}
+
+/* Paragraph and link styles */
+p {
+  font-size: 21px;
+  color: #8c8c8c;
+}
+
+a {
+  color: aquamarine;
+  text-decoration: underline;
+}
+
+/* Footer */
+.footer {
+  text-align: right;
+  color: #8c8c8c;
+}
